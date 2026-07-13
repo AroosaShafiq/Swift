@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
-  const anchorstyle = "font-semibold hover:text-[#FF6347]    ";
+  const anchorstyle = "font-semibold hover:text-[#FF6347]";
 
   return (
     <nav className="flex p-5 bg-[#FFFFFF] items-center justify-between lg:justify-start lg:gap-14 xl:gap-20 relative">
