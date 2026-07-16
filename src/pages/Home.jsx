@@ -3,7 +3,7 @@ import { useState } from "react";
 import reactLogo from "../assets/react.svg";
 import viteLogo from "../assets/vite.svg";
 import heroImg from "../assets/hero.png";
-import { Herosection } from "../components/herosection";
+import Herosection from "../components/Herosection";
 import { Featuredproducts } from "../components/Featuredproducts";
 import { Summersection } from "../components/Summersection";
 import { Who } from "../components/Who";

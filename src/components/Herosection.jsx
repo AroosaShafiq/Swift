@@ -1,6 +1,6 @@
 import React from "react";
 
-export const Herosection = () => {
+ const Herosection = () => {
   return (
     <div>
       <div className="w-full h-screen animate-hero-bg bg-cover bg-center pt-32 ps-6 sm:pt-40 sm:ps-12 lg:pt-50 lg:ps-20">
@@ -19,3 +19,4 @@ export const Herosection = () => {
     </div>
   );
 };
+export default Herosection;
